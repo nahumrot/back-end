@@ -1,0 +1,15 @@
+{
+    "name": "desafio_02_filesistem",
+    "version": "1.0.0",
+    "description": "Desafio 02 backend coder FileSistem",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Monti Francisco Javier",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
